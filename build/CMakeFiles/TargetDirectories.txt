@@ -1,0 +1,3 @@
+/home/gustavo/EstruturaDeDados2/Exercicio0/build/CMakeFiles/hello.dir
+/home/gustavo/EstruturaDeDados2/Exercicio0/build/CMakeFiles/edit_cache.dir
+/home/gustavo/EstruturaDeDados2/Exercicio0/build/CMakeFiles/rebuild_cache.dir
